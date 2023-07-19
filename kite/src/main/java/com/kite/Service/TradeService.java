@@ -1,7 +1,5 @@
 package com.kite.Service;
 
-public class TradeService {
-	
-	
+public interface TradeService {
 
 }

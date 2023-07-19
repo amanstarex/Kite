@@ -1,8 +1,5 @@
 package com.kite.Repository;
 
-
-
-
-public class TradeRepository {
+public interface TradeRepository {
 
 }
