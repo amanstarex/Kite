@@ -1,4 +1,4 @@
-package com.kite.kite;
+package com.kite.Starter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
